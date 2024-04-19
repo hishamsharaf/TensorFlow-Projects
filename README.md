@@ -1,0 +1,1 @@
+Predicting Sunspots with Neural Networks, Using the Daily Minimum Temperatures in Melbourne dataset which contains data of the daily minimum temperatures recorded in Melbourne from 1981 to 1990 to build a nerol network using tensorflow layers: Conv1D, LSTM and Dense layers.
